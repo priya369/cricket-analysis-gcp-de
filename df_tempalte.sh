@@ -5,3 +5,4 @@ python dataflow_job.py \
   --project valid-verbena-437709-h5 \
   --region us-east1 \
   --temp_location gs://dataops-dataflow-2024/temp
+  --template_location gs://cricket-analysis/templates/
